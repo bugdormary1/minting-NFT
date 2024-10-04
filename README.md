@@ -18,7 +18,10 @@ https://www.amazon.com/Ultimate-Cardano-Smart-Contracts-Development/dp/819739653
 
 ### About NFT's
 
-NFTs (Non-Fungible-Tokens) are digital assets that represent ownership of unique items or content on the blockchain. Unlike fungible assets like cryptocurrencies, each NFT is distinct and carries specific value and attributes .
+# ![image](https://github.com/user-attachments/assets/9fd476de-fc0d-4b55-8af7-96a81ba97be5)
+
+
+**NFTs (Non-Fungible-Tokens)** are digital assets that represent ownership of unique items or content on the blockchain. Unlike fungible assets like cryptocurrencies, each NFT is distinct and carries specific value and attributes .
 
 NFTs offers a way to verify the authenticity and ownership of digital items , revolutionizing the digital asset landscape.
 
